@@ -4,7 +4,7 @@
 
 Building an open-source HTTP proxy in Java - think BurpSuite but free and transparent.
 
-## What I'm Building
+## What I'm Building (Version 1)
 
 A simple HTTP proxy that can intercept and inspect web traffic. Perfect for debugging web applications and learning how HTTP works under the hood.
 
